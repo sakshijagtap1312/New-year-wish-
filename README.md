@@ -6,7 +6,7 @@ from random import randint
 for i in range(1, 85):
     print('')
 
-space = ''
+space = ' '
 
 for i in range(1, 1000):
     count = randint(1, 100)
